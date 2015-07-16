@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: system/addon.d/74-brs.sh
+SHA1-Digest: uDtBHLo0Llm3hflnsDvgTeouxao=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 33EUFJNMIsbufjFFV8O4B/4cWkQ=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: IOL/2YeuXrt9ClZ6qNjoXe53NRM=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest: 71Q6Rn2DDZl1zPDVaaeEHItd+Yg=
+
