@@ -1,0 +1,84 @@
+ui_print("******************************************");
+ui_print("Bloatware Removal Script");
+ui_print("******************************************");
+show_progress(1, 15);
+ui_print("Unmounting system");
+run_program("/sbin/busybox", "umount", "/system");
+ui_print("Mounting system");
+run_program("/sbin/busybox", "mount", "/system");
+show_progress(1, 15);
+ui_print("Removing system bloat...");
+delete_recursive(
+	"/system/app/Apollo",
+	"/system/app/BasicDreams",
+	"/system/app/Browser",
+	"/system/app/BrowserProviderProxy",
+	"/system/app/CellBroadcastReceiver",
+	"/system/app/CMFileManager",
+	"/system/app/CMHome",
+	"/system/app/CMWallpapers",
+	"/system/app/DashClock",
+	"/system/app/DSPManager",
+	"/system/app/Eleven",
+	"/system/app/Email",
+	"/system/app/Exchange2",
+	"/system/app/Galaxy4",
+	"/system/app/Gallery2",
+	"/system/app/HoloSpiralWallpaper",
+	"/system/app/LiveWallpapers",
+	"/system/app/LiveWallpapersPicker",
+	"/system/app/MagicSmokeWallpapers",
+	"/system/app/Music",
+	"/system/app/NoiseField",
+	"/system/app/PartnerBookmarksProvider",
+	"/system/app/PhaseBeam",
+	"/system/app/PhotoPhase",
+	"/system/app/PhotoTable",
+	"/system/app/Provision",
+	"/system/app/QuickSearchBox",
+	"/system/app/SoundRecorder",
+	"/system/app/Stk",
+	"/system/app/Vending",
+	"/system/app/VideoEditor",
+	"/system/app/VisualizationWallpapers",
+	"/system/app/VoicePlus",
+	"/system/app/WhisperPush"
+);
+delete_recursive(
+	"/system/priv-app/AudioFX",
+	"/system/priv-app/BrowserProviderProxy",
+	"/system/priv-app/CellBroadcastReceiver",
+	"/system/priv-app/CMAccount",
+	"/system/priv-app/CMUpdater",
+	"/system/priv-app/CyanogenSetupWizard",
+	"/system/priv-app/OTA",
+    "/system/priv-app/OTAUpdater",
+    "/system/priv-app/PartnerBookmarksProvider",
+	"/system/priv-app/PitchBlack",
+	"/system/priv-app/Provision",
+	"/system/priv-app/QuickSearchBox",
+	"/system/priv-app/ScreenRecorder",
+	"/system/priv-app/talkback",
+	"/system/priv-app/ThemesProvider",
+	"/system/priv-app/Vending"
+);
+delete_recursive(
+	"/system/media/audio/notifications",
+	"/system/media/audio/ringtones",
+	"/system/media/audio/ui",
+	"/sdcard/Alarms",
+	"/sdcard/Notifications",
+	"/sdcard/Podcasts",
+	"/sdcard/Ringtones"
+);
+show_progress(1, 15);
+ui_print("Copying files");
+package_extract_dir("system", "/system");
+show_progress(1, 15);
+ui_print("Cleaning up and setting metadata");
+set_metadata_recursive("/system/addon.d", "uid", 0, "gid", 0, "dmode", 0755, "fmode", 0755, "capabilities", 0x0, "selabel", "u:object_r:system_file:s0");
+set_metadata_recursive("/system/app", "uid", 0, "gid", 0, "dmode", 0755, "fmode", 0644, "capabilities", 0x0, "selabel", "u:object_r:system_file:s0");
+set_metadata_recursive("/system/priv-app", "uid", 0, "gid", 0, "dmode", 0755, "fmode", 0644, "capabilities", 0x0, "selabel", "u:object_r:system_file:s0");
+ui_print("Unmounting system");
+run_program("/sbin/busybox", "umount", "/system");
+ui_print("Installation complete!");
