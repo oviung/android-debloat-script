@@ -46,7 +46,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * VoicePlus
 * WhisperPush
 
-## Other removed files
+## Other removed directories/files
 
 ```
 /system/media/audio/notifications
