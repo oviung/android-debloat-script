@@ -108,10 +108,8 @@ case "$1" in
    rm -f /system/priv-app/CMUpdater/CMUpdater.apk
    rm -rf /system/priv-app/CyanogenSetupWizard
    rm -f /system/priv-app/CyanogenSetupWizard/CyanogenSetupWizard.apk
-   rm -rf /system/priv-app/OTA
-   rm -f /system/priv-app/OTA/base.apk
-   rm -rf /system/priv-app/OTAUpdater
-   rm -f /system/priv-app/OTAUpdater/base.apk
+   rm -rf /system/priv-app/OTAUpdates
+   rm -f /system/priv-app/OTAUpdates/OTAUpdates.apk
    rm -rf /system/priv-app/PartnerBookmarksProvider
    rm -f /system/priv-app/PartnerBookmarksProvider/PartnerBookmarksProvider.apk
    rm -rf /system/priv-app/PitchBlack
