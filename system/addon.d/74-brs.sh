@@ -37,10 +37,6 @@ case "$1" in
    rm -f /system/app/Apollo/Apollo.apk
    rm -rf /system/app/BasicDreams
    rm -f /system/app/BasicDreams/BasicDreams.apk
-   rm -rf /system/app/Browser
-   rm -f /system/app/Browser/Browser.apk
-   rm -rf /system/app/BrowserProviderProxy
-   rm -f /system/app/BrowserProviderProxy/BrowserProviderProxy.apk
    rm -rf /system/app/CellBroadcastReceiver
    rm -f /system/app/CellBroadcastReceiver/CellBroadcastReceiver.apk
    rm -rf /system/app/CMFileManager
@@ -104,8 +100,6 @@ case "$1" in
 
    rm -rf /system/priv-app/AudioFX
    rm -f /system/priv-app/AudioFX/AudioFX.apk
-   rm -rf /system/priv-app/BrowserProviderProxy
-   rm -f /system/priv-app/BrowserProviderProxy/BrowserProviderProxy.apk
    rm -rf /system/priv-app/CellBroadcastReceiver
    rm -f /system/priv-app/CellBroadcastReceiver/CellBroadcastReceiver.apk
    rm -rf /system/priv-app/CMAccount
