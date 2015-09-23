@@ -26,12 +26,14 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * MagicSmokeWallpapers
 * Music (player)
 * NoiseField
+* OmniSwitch
 * OTAUpdater
 * PartnerBookmarksProvider
 * PhaseBeam
 * PhotoPhase
 * PhotoTable
 * PitchBlack (Resurrection Remix theme)
+* PrintSpooler
 * Provision
 * QuickSearchBox
 * RRWallpapers
