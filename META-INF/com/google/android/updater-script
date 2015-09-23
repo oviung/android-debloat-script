@@ -35,6 +35,7 @@ delete_recursive(
 	"/system/app/PhotoTable",
 	"/system/app/Provision",
 	"/system/app/QuickSearchBox",
+	"/system/app/RRWallpapers",
 	"/system/app/SoundRecorder",
 	"/system/app/Stk",
 	"/system/app/Vending",
@@ -56,6 +57,7 @@ delete_recursive(
 	"/system/priv-app/QuickSearchBox",
 	"/system/priv-app/ScreenRecorder",
 	"/system/priv-app/talkback",
+	"/system/priv-app/ThemeChooser",
 	"/system/priv-app/ThemesProvider",
 	"/system/priv-app/Vending"
 );

@@ -85,6 +85,8 @@ case "$1" in
    rm -f /system/app/Provision/Provision.apk
    rm -rf /system/app/QuickSearchBox
    rm -f /system/app/QuickSearchBox/QuickSearchBox.apk
+   rm -rf /system/app/RRWallpapers
+   rm -f /system/app/RRWallpapers/RRWallpapers.apk
    rm -rf /system/app/SoundRecorder
    rm -f /system/app/SoundRecorder/SoundRecorder.apk
    rm -rf /system/app/Stk
@@ -124,6 +126,8 @@ case "$1" in
    rm -f /system/priv-app/ScreenRecorder/ScreenRecorder.apk
    rm -rf /system/priv-app/talkback
    rm -f /system/priv-app/talkback/talkback.apk
+   rm -rf /system/priv-app/ThemeChooser
+   rm -f /system/priv-app/ThemeChooser/ThemeChooser.apk
    rm -rf /system/priv-app/ThemesProvider
    rm -f /system/priv-app/ThemesProvider/ThemesProvider.apk
    rm -rf /system/priv-app/Vending
