@@ -5,6 +5,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * Apollo
 * AudioFX
 * BasicDreams
+* Browser (AOSP)
 * CellBroadcastReceiver
 * CMAccout
 * CMFileManager
