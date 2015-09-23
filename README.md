@@ -34,10 +34,12 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * PitchBlack (Resurrection Remix theme)
 * Provision
 * QuickSearchBox
+* RRWallpapers
 * ScreenRecorder
 * SoundRecorder
 * Stk (SIM Toolkit)
 * Talkback
+* ThemeChooser
 * ThemesProvider
 * Vending
 * VideoEditor
