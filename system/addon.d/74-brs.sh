@@ -81,6 +81,8 @@ case "$1" in
    rm -f /system/app/PhotoPhase/PhotoPhase.apk
    rm -rf /system/app/PhotoTable
    rm -f /system/app/PhotoTable/PhotoTable.apk
+   rm -rf /system/app/PrintSpooler
+   rm -f /system/app/PrintSpooler/PrintSpooler.apk
    rm -rf /system/app/Provision
    rm -f /system/app/Provision/Provision.apk
    rm -rf /system/app/QuickSearchBox
@@ -112,6 +114,8 @@ case "$1" in
    rm -f /system/priv-app/CMUpdater/CMUpdater.apk
    rm -rf /system/priv-app/CyanogenSetupWizard
    rm -f /system/priv-app/CyanogenSetupWizard/CyanogenSetupWizard.apk
+   rm -rf /system/priv-app/OmniSwitch
+   rm -f /system/priv-app/OmniSwitch/OmniSwitch.apk
    rm -rf /system/priv-app/OTAUpdates
    rm -f /system/priv-app/OTAUpdates/OTAUpdates.apk
    rm -rf /system/priv-app/PartnerBookmarksProvider
