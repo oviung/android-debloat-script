@@ -11,6 +11,7 @@ ui_print("Removing system bloat...");
 delete_recursive(
 	"/system/app/Apollo",
 	"/system/app/BasicDreams",
+	"/system/app/Browser",
 	"/system/app/CellBroadcastReceiver",
 	"/system/app/CMFileManager",
 	"/system/app/CMHome",
