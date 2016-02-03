@@ -40,6 +40,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * ScreenRecorder
 * SoundRecorder
 * Stk (SIM Toolkit)
+* Terminal
 * Talkback
 * ThemeChooser
 * ThemesProvider
