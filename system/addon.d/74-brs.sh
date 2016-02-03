@@ -93,6 +93,8 @@ case "$1" in
    rm -f /system/app/SoundRecorder/SoundRecorder.apk
    rm -rf /system/app/Stk
    rm -f /system/app/Stk/Stk.apk
+   rm -rf /system/app/Terminal
+   rm -f /system/app/Terminal/Terminal.apk
    rm -rf /system/app/Vending
    rm -f /system/app/Vending/Vending.apk
    rm -rf /system/app/VideoEditor
