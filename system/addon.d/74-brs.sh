@@ -112,8 +112,6 @@ case "$1" in
    rm -f /system/priv-app/CellBroadcastReceiver/CellBroadcastReceiver.apk
    rm -rf /system/priv-app/CMAccount
    rm -f /system/priv-app/CMAccount/CMAccout.apk
-   rm -rf /system/priv-app/CMSettingsProvider
-   rm -f /system/priv-app/CMSettingsProvider/CMSettingsProvider.apk
    rm -rf /system/priv-app/CMUpdater
    rm -f /system/priv-app/CMUpdater/CMUpdater.apk
    rm -rf /system/priv-app/CyanogenSetupWizard
