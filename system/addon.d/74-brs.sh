@@ -112,12 +112,16 @@ case "$1" in
    rm -f /system/priv-app/CellBroadcastReceiver/CellBroadcastReceiver.apk
    rm -rf /system/priv-app/CMAccount
    rm -f /system/priv-app/CMAccount/CMAccout.apk
+   rm -rf /system/priv-app/CMSettingsProvider
+   rm -f /system/priv-app/CMSettingsProvider/CMSettingsProvider.apk
    rm -rf /system/priv-app/CMUpdater
    rm -f /system/priv-app/CMUpdater/CMUpdater.apk
    rm -rf /system/priv-app/CyanogenSetupWizard
    rm -f /system/priv-app/CyanogenSetupWizard/CyanogenSetupWizard.apk
    rm -rf /system/priv-app/OmniSwitch
    rm -f /system/priv-app/OmniSwitch/OmniSwitch.apk
+   rm -rf /system/priv-app/OneTimeInitializer
+   rm -f /system/priv-app/OneTimeInitializer/OneTimeInitializer.apk
    rm -rf /system/priv-app/OTAUpdates
    rm -f /system/priv-app/OTAUpdates/OTAUpdates.apk
    rm -rf /system/priv-app/PartnerBookmarksProvider
