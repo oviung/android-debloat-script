@@ -23,6 +23,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * HoloSpiralWallpaper
 * LiveWallpapers
 * LiveWallpapersPicker
+* LockClock (cLock)
 * MagicSmokeWallpapers
 * Music (player)
 * NoiseField
