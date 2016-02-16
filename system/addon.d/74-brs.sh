@@ -67,6 +67,8 @@ case "$1" in
    rm -f /system/app/LiveWallpapers/LiveWallpapers.apk
    rm -rf /system/app/LiveWallpapersPicker
    rm -f /system/app/LiveWallpapersPicker/LiveWallpapersPicker.apk
+   rm -rf /system/app/LockClock
+   rm -f /system/app/LockClock/LockClock.apk
    rm -rf /system/app/MagicSmokeWallpapers
    rm -f /system/app/MagicSmokeWallpapers/MagicSmokeWallpapers.apk
    rm -rf /system/app/Music
