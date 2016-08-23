@@ -21,6 +21,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * Galaxy4
 * Gallery2 (default gallery app)
 * HoloSpiralWallpaper
+* LiveLockScreenService
 * LiveWallpapers
 * LiveWallpapersPicker
 * LockClock (cLock)

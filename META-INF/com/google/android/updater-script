@@ -53,6 +53,7 @@ delete_recursive(
 	"/system/priv-app/CMAccount",
 	"/system/priv-app/CMUpdater",
 	"/system/priv-app/CyanogenSetupWizard",
+	"/system/priv-app/LiveLockScreenService",
 	"/system/priv-app/OmniSwitch",
 	"/system/priv-app/OneTimeInitializer",
     "/system/priv-app/OTAUpdates",
