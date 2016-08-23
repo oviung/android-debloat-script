@@ -62,6 +62,7 @@ delete_recursive(
 	"/system/priv-app/Provision",
 	"/system/priv-app/QuickSearchBox",
 	"/system/priv-app/ScreenRecorder",
+	"/system/priv-app/Tag",
 	"/system/priv-app/talkback",
 	"/system/priv-app/ThemeChooser",
 	"/system/priv-app/ThemesProvider",

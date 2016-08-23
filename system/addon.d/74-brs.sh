@@ -85,6 +85,7 @@ case "$1" in
    rm -rf /system/priv-app/Provision
    rm -rf /system/priv-app/QuickSearchBox
    rm -rf /system/priv-app/ScreenRecorder
+   rm -rf /system/priv-app/Tag
    rm -rf /system/priv-app/talkback
    rm -rf /system/priv-app/ThemeChooser
    rm -rf /system/priv-app/ThemesProvider
