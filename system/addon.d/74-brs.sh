@@ -48,11 +48,13 @@ case "$1" in
    rm -rf /system/app/Galaxy4
    rm -rf /system/app/Gallery2
    rm -rf /system/app/GalleryNext
+   rm -rf /system/app/Gello
    rm -rf /system/app/HoloSpiralWallpaper
    rm -rf /system/app/LiveWallpapers
    rm -rf /system/app/LiveWallpapersPicker
    rm -rf /system/app/LockClock
    rm -rf /system/app/MagicSmokeWallpapers
+   rm -rf /system/app/ModioFX
    rm -rf /system/app/Music
    rm -rf /system/app/NoiseField
    rm -rf /system/app/PartnerBookmarksProvider
