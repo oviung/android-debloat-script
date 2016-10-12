@@ -21,12 +21,14 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * Galaxy4
 * Gallery2 (gallery app)
 * GalleryNext (yet another gallery app)
+* Gello (Cyanogen browser)
 * HoloSpiralWallpaper
 * LiveLockScreenService
 * LiveWallpapers
 * LiveWallpapersPicker
 * LockClock (cLock)
 * MagicSmokeWallpapers
+* ModioFX (audio effects - use Viper4Android/ARISE if rooted)
 * Music (player)
 * NoiseField
 * OmniSwitch
