@@ -68,6 +68,7 @@ delete_recursive(
 	"/system/priv-app/ThemeChooser",
 	"/system/priv-app/ThemesProvider",
 	"/system/priv-app/Vending",
+	"/system/priv-app/WeatherManagerService",
 	"/system/priv-app/WeatherProvider"
 );
 delete_recursive(

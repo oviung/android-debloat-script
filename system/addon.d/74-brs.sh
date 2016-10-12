@@ -91,6 +91,7 @@ case "$1" in
    rm -rf /system/priv-app/ThemeChooser
    rm -rf /system/priv-app/ThemesProvider
    rm -rf /system/priv-app/Vending
+   rm -rf /system/priv-app/WeatherManagerService
    rm -rf /system/priv-app/WeatherProvider
 
    rm -rf /system/media/audio/notifications
