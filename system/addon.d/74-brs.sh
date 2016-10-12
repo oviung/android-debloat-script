@@ -78,6 +78,7 @@ case "$1" in
    rm -rf /system/priv-app/AudioFX
    rm -rf /system/priv-app/CellBroadcastReceiver
    rm -rf /system/priv-app/CMAccount
+   rm -rf /system/priv-app/CMAudioService
    rm -rf /system/priv-app/CMUpdater
    rm -rf /system/priv-app/CyanogenSetupWizard
    rm -rf /system/priv-app/LiveLockScreenService

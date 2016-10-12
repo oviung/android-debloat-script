@@ -8,6 +8,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * Browser (AOSP)
 * CellBroadcastReceiver
 * CMAccout
+* CMAudioService
 * CMFileManager
 * CMHome
 * CMUpdater

@@ -55,6 +55,7 @@ delete_recursive(
 	"/system/priv-app/AudioFX",
 	"/system/priv-app/CellBroadcastReceiver",
 	"/system/priv-app/CMAccount",
+	"/system/priv-app/CMAudioService",
 	"/system/priv-app/CMUpdater",
 	"/system/priv-app/CyanogenSetupWizard",
 	"/system/priv-app/LiveLockScreenService",
