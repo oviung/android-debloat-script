@@ -19,7 +19,8 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * Email
 * Exchange2 (Exchange Services)
 * Galaxy4
-* Gallery2 (default gallery app)
+* Gallery2 (gallery app)
+* GalleryNext (yet another gallery app)
 * HoloSpiralWallpaper
 * LiveLockScreenService
 * LiveWallpapers
