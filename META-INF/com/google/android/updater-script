@@ -23,6 +23,7 @@ delete_recursive(
 	"/system/app/Exchange2",
 	"/system/app/Galaxy4",
 	"/system/app/Gallery2",
+	"/system/app/GalleryNext",
 	"/system/app/HoloSpiralWallpaper",
 	"/system/app/LiveWallpapers",
 	"/system/app/LiveWallpapersPicker",

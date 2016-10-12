@@ -47,6 +47,7 @@ case "$1" in
    rm -rf /system/app/Exchange2
    rm -rf /system/app/Galaxy4
    rm -rf /system/app/Gallery2
+   rm -rf /system/app/GalleryNext
    rm -rf /system/app/HoloSpiralWallpaper
    rm -rf /system/app/LiveWallpapers
    rm -rf /system/app/LiveWallpapersPicker
