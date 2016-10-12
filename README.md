@@ -53,6 +53,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * Talkback
 * Terminal
 * ThemeChooser
+* ThemeManagerService
 * ThemesProvider
 * Vending
 * VideoEditor
