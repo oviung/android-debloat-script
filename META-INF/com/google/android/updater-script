@@ -71,6 +71,7 @@ delete_recursive(
 	"/system/priv-app/Tag",
 	"/system/priv-app/talkback",
 	"/system/priv-app/ThemeChooser",
+	"/system/priv-app/ThemeManagerService",
 	"/system/priv-app/ThemesProvider",
 	"/system/priv-app/Vending",
 	"/system/priv-app/WeatherManagerService",
