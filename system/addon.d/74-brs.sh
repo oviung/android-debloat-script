@@ -44,6 +44,7 @@ case "$1" in
    rm -rf /system/app/DSPManager
    rm -rf /system/app/Eleven
    rm -rf /system/app/Email
+   rm -rf /system/app/ExactCalculator
    rm -rf /system/app/Exchange2
    rm -rf /system/app/Galaxy4
    rm -rf /system/app/Gallery2
