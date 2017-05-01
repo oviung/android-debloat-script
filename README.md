@@ -18,6 +18,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * DSPManager
 * Eleven
 * Email
+* ExactCalculator
 * Exchange2 (Exchange Services)
 * Galaxy4
 * Gallery2 (gallery app)
