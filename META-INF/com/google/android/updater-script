@@ -43,6 +43,7 @@ delete_recursive(
     "/system/app/PhaseBeam",
     "/system/app/PhotoPhase",
     "/system/app/PhotoTable",
+    "/system/app/PicoTts"
     "/system/app/PrintSpooler",
     "/system/app/Provision",
     "/system/app/QuickSearchBox",

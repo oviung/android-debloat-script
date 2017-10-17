@@ -67,6 +67,7 @@ case "$1" in
    rm -rf /system/app/PhaseBeam
    rm -rf /system/app/PhotoPhase
    rm -rf /system/app/PhotoTable
+   rm -rf /system/app/PicoTts
    rm -rf /system/app/PrintSpooler
    rm -rf /system/app/Provision
    rm -rf /system/app/QuickSearchBox
