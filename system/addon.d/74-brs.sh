@@ -36,11 +36,13 @@ case "$1" in
    rm -rf /system/app/Apollo
    rm -rf /system/app/BasicDreams
    rm -rf /system/app/Browser
+   rm -rf /system/app/Calendar
    rm -rf /system/app/CellBroadcastReceiver
    rm -rf /system/app/CMFileManager
    rm -rf /system/app/CMHome
    rm -rf /system/app/CMWallpapers
    rm -rf /system/app/DashClock
+   rm -rf /system/app/DeskClock
    rm -rf /system/app/DSPManager
    rm -rf /system/app/Eleven
    rm -rf /system/app/Email
@@ -52,10 +54,12 @@ case "$1" in
    rm -rf /system/app/Gello
    rm -rf /system/app/HexoLibre
    rm -rf /system/app/HoloSpiralWallpaper
+   rm -rf /system/app/Jelly
    rm -rf /system/app/LiveWallpapers
    rm -rf /system/app/LiveWallpapersPicker
    rm -rf /system/app/LockClock
    rm -rf /system/app/MagicSmokeWallpapers
+   rm -rf /system/app/messaging
    rm -rf /system/app/ModioFX
    rm -rf /system/app/Music
    rm -rf /system/app/NoiseField
@@ -63,6 +67,7 @@ case "$1" in
    rm -rf /system/app/PhaseBeam
    rm -rf /system/app/PhotoPhase
    rm -rf /system/app/PhotoTable
+   rm -rf /system/app/PicoTts
    rm -rf /system/app/PrintSpooler
    rm -rf /system/app/Provision
    rm -rf /system/app/QuickSearchBox
@@ -81,7 +86,12 @@ case "$1" in
    rm -rf /system/priv-app/CMAccount
    rm -rf /system/priv-app/CMAudioService
    rm -rf /system/priv-app/CMUpdater
+   rm -rf /system/priv-app/Contacts
    rm -rf /system/priv-app/CyanogenSetupWizard
+   rm -rf /system/priv-app/Dialer
+   rm -rf /system/priv-app/DocumentsUI
+   rm -rf /system/priv-app/Eleven
+   rm -rf /system/priv-app/Gallery2
    rm -rf /system/priv-app/LiveLockScreenService
    rm -rf /system/priv-app/OmniSwitch
    rm -rf /system/priv-app/OneTimeInitializer
@@ -90,6 +100,7 @@ case "$1" in
    rm -rf /system/priv-app/PitchBlack
    rm -rf /system/priv-app/Provision
    rm -rf /system/priv-app/QuickSearchBox
+   rm -rf /system/priv-app/Recorder
    rm -rf /system/priv-app/Screencast
    rm -rf /system/priv-app/ScreenRecorder
    rm -rf /system/priv-app/Tag
