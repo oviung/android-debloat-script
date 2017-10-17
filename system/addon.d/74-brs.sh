@@ -100,6 +100,7 @@ case "$1" in
    rm -rf /system/priv-app/PitchBlack
    rm -rf /system/priv-app/Provision
    rm -rf /system/priv-app/QuickSearchBox
+   rm -rf /system/priv-app/Recorder
    rm -rf /system/priv-app/Screencast
    rm -rf /system/priv-app/ScreenRecorder
    rm -rf /system/priv-app/Tag
