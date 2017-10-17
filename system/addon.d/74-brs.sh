@@ -86,6 +86,7 @@ case "$1" in
    rm -rf /system/priv-app/CMAccount
    rm -rf /system/priv-app/CMAudioService
    rm -rf /system/priv-app/CMUpdater
+   rm -rf /system/priv-app/Contacts
    rm -rf /system/priv-app/CyanogenSetupWizard
    rm -rf /system/priv-app/LiveLockScreenService
    rm -rf /system/priv-app/OmniSwitch
