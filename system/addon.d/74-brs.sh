@@ -90,6 +90,7 @@ case "$1" in
    rm -rf /system/priv-app/CyanogenSetupWizard
    rm -rf /system/priv-app/Dialer
    rm -rf /system/priv-app/DocumentsUI
+   rm -rf /system/priv-app/Eleven
    rm -rf /system/priv-app/LiveLockScreenService
    rm -rf /system/priv-app/OmniSwitch
    rm -rf /system/priv-app/OneTimeInitializer
