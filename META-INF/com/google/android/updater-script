@@ -12,7 +12,7 @@ delete_recursive(
     "/system/app/Apollo",
     "/system/app/BasicDreams",
     "/system/app/Browser",
-    "/system/app/Calendar"
+    "/system/app/Calendar",
     "/system/app/CellBroadcastReceiver",
     "/system/app/CMFileManager",
     "/system/app/CMHome",
@@ -30,12 +30,12 @@ delete_recursive(
     "/system/app/Gello",
     "/system/app/HexoLibre",
     "/system/app/HoloSpiralWallpaper",
-    "/system/app/Jelly"
+    "/system/app/Jelly",
     "/system/app/LiveWallpapers",
     "/system/app/LiveWallpapersPicker",
     "/system/app/LockClock",
     "/system/app/MagicSmokeWallpapers",
-    "/system/app/messaging"
+    "/system/app/messaging",
     "/system/app/ModioFX",
     "/system/app/Music",
     "/system/app/NoiseField",
@@ -43,7 +43,7 @@ delete_recursive(
     "/system/app/PhaseBeam",
     "/system/app/PhotoPhase",
     "/system/app/PhotoTable",
-    "/system/app/PicoTts"
+    "/system/app/PicoTts",
     "/system/app/PrintSpooler",
     "/system/app/Provision",
     "/system/app/QuickSearchBox",
@@ -63,10 +63,10 @@ delete_recursive(
     "/system/priv-app/CMAccount",
     "/system/priv-app/CMAudioService",
     "/system/priv-app/CMUpdater",
-    "/system/priv-app/Contacts"
+    "/system/priv-app/Contacts",
     "/system/priv-app/CyanogenSetupWizard",
-    "/system/priv-app/Dialer"
-    "/system/priv-app/DocumentsUI"
+    "/system/priv-app/Dialer",
+    "/system/priv-app/DocumentsUI",
     "/system/priv-app/LiveLockScreenService",
     "/system/priv-app/OmniSwitch",
     "/system/priv-app/OneTimeInitializer",
