@@ -28,6 +28,7 @@ delete_recursive(
     "/system/app/Gello",
     "/system/app/HexoLibre",
     "/system/app/HoloSpiralWallpaper",
+    "/system/app/Jelly"
     "/system/app/LiveWallpapers",
     "/system/app/LiveWallpapersPicker",
     "/system/app/LockClock",
