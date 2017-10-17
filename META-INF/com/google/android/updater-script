@@ -18,6 +18,7 @@ delete_recursive(
     "/system/app/CMHome",
     "/system/app/CMWallpapers",
     "/system/app/DashClock",
+    "/system/app/DeskClock",
     "/system/app/DSPManager",
     "/system/app/Eleven",
     "/system/app/Email",
