@@ -42,6 +42,7 @@ case "$1" in
    rm -rf /system/app/CMHome
    rm -rf /system/app/CMWallpapers
    rm -rf /system/app/DashClock
+   rm -rf /system/app/DownloadProviderUi
    rm -rf /system/app/DSPManager
    rm -rf /system/app/Eleven
    rm -rf /system/app/Email
