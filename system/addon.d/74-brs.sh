@@ -64,6 +64,7 @@ case "$1" in
    rm -rf /system/app/ModioFX
    rm -rf /system/app/Music
    rm -rf /system/app/NoiseField
+   rm -rf /system/app/OpenWeatherMapWeatherProvider
    rm -rf /system/app/PartnerBookmarksProvider
    rm -rf /system/app/PhaseBeam
    rm -rf /system/app/PhotoPhase

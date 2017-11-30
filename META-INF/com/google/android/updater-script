@@ -41,6 +41,7 @@ delete_recursive(
     "/system/app/ModioFX",
     "/system/app/Music",
     "/system/app/NoiseField",
+    "/system/app/OpenWeatherMapWeatherProvider",
     "/system/app/PartnerBookmarksProvider",
     "/system/app/PhaseBeam",
     "/system/app/PhotoPhase",
