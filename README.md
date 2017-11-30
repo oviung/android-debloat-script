@@ -47,6 +47,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * PitchBlack (Resurrection Remix theme)
 * PrintSpooler
 * Provision
+* qcrilmsgtunnel
 * QuickSearchBox
 * Recorder
 * RRWallpapers
