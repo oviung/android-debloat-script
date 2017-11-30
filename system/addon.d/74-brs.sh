@@ -52,6 +52,7 @@ case "$1" in
    rm -rf /system/app/Gello
    rm -rf /system/app/HexoLibre
    rm -rf /system/app/HoloSpiralWallpaper
+   rm -rf /system/app/Jelly
    rm -rf /system/app/LiveWallpapers
    rm -rf /system/app/LiveWallpapersPicker
    rm -rf /system/app/LockClock

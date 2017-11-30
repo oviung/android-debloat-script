@@ -26,6 +26,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * Gello (Cyanogen browser)
 * HexoLibre
 * HoloSpiralWallpaper
+* Jelly (LineageOS Browser)
 * LiveLockScreenService
 * LiveWallpapers
 * LiveWallpapersPicker
