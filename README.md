@@ -30,6 +30,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * HexoLibre
 * HoloSpiralWallpaper
 * Jelly (LineageOS Browser)
+* LineageSetupWizard
 * LiveLockScreenService
 * LiveWallpapers
 * LiveWallpapersPicker
