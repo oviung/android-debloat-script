@@ -13,6 +13,7 @@ delete_recursive(
     "/system/app/AntHalService",
     "/system/app/Apollo",
     "/system/app/BasicDreams",
+    "/system/app/BookmarkProvider",
     "/system/app/Browser",
     "/system/app/CellBroadcastReceiver",
     "/system/app/CMFileManager",
