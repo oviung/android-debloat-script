@@ -22,6 +22,7 @@ delete_recursive(
     "/system/app/DashClock",
     "/system/app/DownloadProviderUi",
     "/system/app/DSPManager",
+    "/system/app/EasterEgg",
     "/system/app/Eleven",
     "/system/app/Email",
     "/system/app/ExactCalculator",

@@ -20,6 +20,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * DocumentsUI (LineageOS File Manager - alternative MiXplorer)
 * DownloadProviderUi
 * DSPManager
+* EasterEgg
 * Eleven (Music player)
 * EmergencyInfo
 * Email
