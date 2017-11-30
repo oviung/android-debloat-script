@@ -84,6 +84,7 @@ case "$1" in
    rm -rf /system/app/WallpaperBackup
    rm -rf /system/app/WhisperPush
    rm -rf /system/app/WundergroundWeatherProvider
+   rm -rf /system/app/YahooWeatherProvider
 
    rm -rf /system/priv-app/AudioFX
    rm -rf /system/priv-app/CellBroadcastReceiver

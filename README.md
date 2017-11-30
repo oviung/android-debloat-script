@@ -76,6 +76,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * WeatherProvider
 * WhisperPush
 * WundergroundWeatherProvider
+* YahooWeatherProvider
 
 ## Other removed directories/files
 
