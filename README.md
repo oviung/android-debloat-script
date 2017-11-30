@@ -15,6 +15,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * CMWallpapers
 * CyanogenSetupWizard
 * DashClock
+* DocumentsUI (LineageOS File Manager - alternative MiXplorer)
 * DSPManager
 * Eleven (Music player)
 * Email
