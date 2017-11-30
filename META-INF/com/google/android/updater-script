@@ -10,6 +10,7 @@ show_progress(1, 15);
 ui_print("Removing system bloat...");
 
 delete_recursive(
+    "/system/app/AntHalService",
     "/system/app/Apollo",
     "/system/app/BasicDreams",
     "/system/app/Browser",
