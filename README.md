@@ -17,6 +17,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * CyanogenSetupWizard
 * DashClock
 * DocumentsUI (LineageOS File Manager - alternative MiXplorer)
+* DownloadProviderUi
 * DSPManager
 * Eleven (Music player)
 * EmergencyInfo
