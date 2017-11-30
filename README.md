@@ -51,6 +51,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * PhotoPhase
 * PhotoTable
 * PitchBlack (Resurrection Remix theme)
+* PrintRecommendationService
 * PrintSpooler
 * Provision
 * qcrilmsgtunnel
