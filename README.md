@@ -45,6 +45,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * OmniSwitch
 * OneTimeInitializer
 * OTAUpdater
+* OpenWeatherMapWeatherProvider
 * PartnerBookmarksProvider
 * PhaseBeam
 * PhotoPhase
