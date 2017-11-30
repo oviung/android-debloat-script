@@ -59,7 +59,8 @@ delete_recursive(
     "/system/app/VisualizationWallpapers",
     "/system/app/VoicePlus",
     "/system/app/WallpaperBackup",
-    "/system/app/WhisperPush"
+    "/system/app/WhisperPush",
+    "/system/app/WundergroundWeatherProvider"
 );
 delete_recursive(
     "/system/priv-app/AudioFX",
