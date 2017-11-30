@@ -19,6 +19,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * DocumentsUI (LineageOS File Manager - alternative MiXplorer)
 * DSPManager
 * Eleven (Music player)
+* EmergencyInfo
 * Email
 * ExactCalculator
 * Exchange2 (Exchange Services)
