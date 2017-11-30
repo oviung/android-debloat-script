@@ -58,6 +58,7 @@ delete_recursive(
     "/system/app/VideoEditor",
     "/system/app/VisualizationWallpapers",
     "/system/app/VoicePlus",
+    "/system/app/WallpaperBackup",
     "/system/app/WhisperPush"
 );
 delete_recursive(
