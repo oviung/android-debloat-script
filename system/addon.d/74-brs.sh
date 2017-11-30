@@ -33,6 +33,7 @@ case "$1" in
     # Stub
   ;;
   post-restore)
+   rm -rf /system/app/AntHalService
    rm -rf /system/app/Apollo
    rm -rf /system/app/BasicDreams
    rm -rf /system/app/Browser

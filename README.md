@@ -2,6 +2,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 
 ## List of removed apps
 
+* AntHalService
 * Apollo
 * AudioFX
 * BasicDreams
