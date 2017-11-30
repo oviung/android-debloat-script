@@ -93,6 +93,7 @@ case "$1" in
    rm -rf /system/priv-app/PartnerBookmarksProvider
    rm -rf /system/priv-app/PitchBlack
    rm -rf /system/priv-app/Provision
+   rm -rf /system/priv-app/qcrilmsgtunnel
    rm -rf /system/priv-app/QuickSearchBox
    rm -rf /system/priv-app/Recorder
    rm -rf /system/priv-app/Screencast
