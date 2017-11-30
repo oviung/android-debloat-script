@@ -61,6 +61,7 @@ delete_recursive(
     "/system/priv-app/CMAudioService",
     "/system/priv-app/CMUpdater",
     "/system/priv-app/CyanogenSetupWizard",
+    "/system/priv-app/DocumentsUI",
     "/system/priv-app/Eleven",
     "/system/priv-app/LiveLockScreenService",
     "/system/priv-app/OmniSwitch",
