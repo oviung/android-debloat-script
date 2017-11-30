@@ -60,7 +60,8 @@ delete_recursive(
     "/system/app/VoicePlus",
     "/system/app/WallpaperBackup",
     "/system/app/WhisperPush",
-    "/system/app/WundergroundWeatherProvider"
+    "/system/app/WundergroundWeatherProvider",
+    "/system/app/YahooWeatherProvider"
 );
 delete_recursive(
     "/system/priv-app/AudioFX",
