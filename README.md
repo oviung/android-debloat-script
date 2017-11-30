@@ -16,7 +16,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * CyanogenSetupWizard
 * DashClock
 * DSPManager
-* Eleven
+* Eleven (Music player)
 * Email
 * ExactCalculator
 * Exchange2 (Exchange Services)
