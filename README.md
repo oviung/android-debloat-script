@@ -2,7 +2,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 
 ## List of removed apps
 
-* AntHalService
+* AntHalService (used for heart rate monitors etc.)
 * Apollo
 * AudioFX
 * BasicDreams
@@ -56,7 +56,6 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * ScreenRecorder
 * SoundRecorder
 * Stk (SIM Toolkit)
-* Tag
 * Talkback
 * Terminal
 * ThemeChooser
