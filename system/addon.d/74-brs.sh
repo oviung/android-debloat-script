@@ -81,6 +81,7 @@ case "$1" in
    rm -rf /system/app/VideoEditor
    rm -rf /system/app/VisualizationWallpapers
    rm -rf /system/app/VoicePlus
+   rm -rf /system/app/WallpaperBackup
    rm -rf /system/app/WhisperPush
 
    rm -rf /system/priv-app/AudioFX
