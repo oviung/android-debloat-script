@@ -6,6 +6,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * Apollo
 * AudioFX
 * BasicDreams
+* BookmarkProvider (used to import/export bookmarks)
 * Browser (AOSP)
 * CellBroadcastReceiver
 * CMAccout

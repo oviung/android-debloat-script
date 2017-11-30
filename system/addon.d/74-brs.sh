@@ -36,6 +36,7 @@ case "$1" in
    rm -rf /system/app/AntHalService
    rm -rf /system/app/Apollo
    rm -rf /system/app/BasicDreams
+   rm -rf /system/app/BookmarkProvider
    rm -rf /system/app/Browser
    rm -rf /system/app/CellBroadcastReceiver
    rm -rf /system/app/CMFileManager
