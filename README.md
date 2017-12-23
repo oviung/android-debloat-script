@@ -39,6 +39,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * LiveWallpapersPicker
 * LockClock (cLock)
 * MagicSmokeWallpapers
+* ManagedProvisioning (Device administration for corporate environments)
 * ModioFX (audio effects - use Viper4Android/ARISE if rooted)
 * Music (player)
 * NoiseField
