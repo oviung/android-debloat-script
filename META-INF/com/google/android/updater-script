@@ -75,6 +75,7 @@ delete_recursive(
     "/system/priv-app/EmergencyInfo",
     "/system/priv-app/LineageSetupWizard",
     "/system/priv-app/LiveLockScreenService",
+    "/system/priv-app/ManagedProvisioning",
     "/system/priv-app/OmniSwitch",
     "/system/priv-app/OneTimeInitializer",
     "/system/priv-app/OTAUpdates",
