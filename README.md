@@ -2,12 +2,13 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 
 ## List of removed apps
 
-* AntHalService (used for heart rate monitors etc.)
+* AntHalService (used for activity trackers, heart rate monitors etc.)
 * Apollo
 * AudioFX
 * BasicDreams
 * BookmarkProvider (used to import/export bookmarks)
 * Browser (AOSP)
+* Calendar (alt. [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar))
 * CellBroadcastReceiver
 * CMAccout
 * CMAudioService
@@ -17,11 +18,11 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * CMWallpapers
 * CyanogenSetupWizard
 * DashClock
-* DocumentsUI (LineageOS File Manager - alternative MiXplorer)
+* DocumentsUI (LineageOS File Manager, alt. [MiXplorer](https://forum.xda-developers.com/showthread.php?t=1523691))
 * DownloadProviderUi
 * DSPManager
 * EasterEgg
-* Eleven (Music player)
+* Eleven (music player)
 * EmergencyInfo
 * Email
 * ExactCalculator
@@ -32,7 +33,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * Gello (Cyanogen browser)
 * HexoLibre
 * HoloSpiralWallpaper
-* Jelly (LineageOS Browser)
+* Jelly (LineageOS browser)
 * LineageSetupWizard
 * LiveLockScreenService
 * LiveWallpapers
@@ -40,7 +41,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * LockClock (cLock)
 * MagicSmokeWallpapers
 * ManagedProvisioning (Device administration for corporate environments)
-* ModioFX (audio effects - use Viper4Android/ARISE if rooted)
+* ModioFX (audio effects - use Viper4Android/[ARISE](https://forum.xda-developers.com/android/software/r-s-e-sound-systems-auditory-research-t3379709) if rooted)
 * Music (player)
 * NoiseField
 * OmniSwitch
