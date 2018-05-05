@@ -88,6 +88,7 @@ delete_recursive(
     "/system/priv-app/Recorder",
     "/system/priv-app/Screencast",
     "/system/priv-app/ScreenRecorder",
+    "/system/priv-app/SetupWizard",
     "/system/priv-app/talkback",
     "/system/priv-app/ThemeChooser",
     "/system/priv-app/ThemeManagerService",

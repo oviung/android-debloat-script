@@ -62,6 +62,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * RRWallpapers
 * Screencast
 * ScreenRecorder
+* SetupWizard
 * SoundRecorder
 * Stk (SIM Toolkit)
 * Talkback
