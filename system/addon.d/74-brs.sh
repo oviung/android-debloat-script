@@ -110,6 +110,7 @@ case "$1" in
    rm -rf /system/priv-app/Recorder
    rm -rf /system/priv-app/Screencast
    rm -rf /system/priv-app/ScreenRecorder
+   rm -rf /system/priv-app/SetupWizard
    rm -rf /system/priv-app/talkback
    rm -rf /system/priv-app/ThemeChooser
    rm -rf /system/priv-app/ThemeManagerService
