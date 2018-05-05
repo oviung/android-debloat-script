@@ -15,7 +15,6 @@ delete_recursive(
     "/system/app/BasicDreams",
     "/system/app/BookmarkProvider",
     "/system/app/Browser",
-    "/system/app/Calendar",
     "/system/app/CellBroadcastReceiver",
     "/system/app/CMFileManager",
     "/system/app/CMHome",

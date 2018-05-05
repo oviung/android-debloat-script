@@ -8,7 +8,6 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * BasicDreams
 * BookmarkProvider (used to import/export bookmarks)
 * Browser (AOSP)
-* Calendar (alt. [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar))
 * CellBroadcastReceiver
 * CMAccout
 * CMAudioService
