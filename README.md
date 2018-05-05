@@ -30,6 +30,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * Gallery2 (gallery app)
 * GalleryNext (yet another gallery app)
 * Gello (Cyanogen browser)
+* GoogleTTS
 * HexoLibre
 * HoloSpiralWallpaper
 * Jelly (LineageOS browser)
