@@ -75,6 +75,7 @@ delete_recursive(
     "/system/priv-app/DocumentsUI",
     "/system/priv-app/Eleven",
     "/system/priv-app/EmergencyInfo",
+    "/system/priv-app/Gallery2",
     "/system/priv-app/LineageSetupWizard",
     "/system/priv-app/LiveLockScreenService",
     "/system/priv-app/ManagedProvisioning",
