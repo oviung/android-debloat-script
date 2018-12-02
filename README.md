@@ -68,6 +68,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * ThemeChooser
 * ThemeManagerService
 * ThemesProvider
+* Updater
 * Vending
 * VideoEditor
 * VisualizationWallpapers
