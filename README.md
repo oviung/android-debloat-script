@@ -63,7 +63,6 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * ScreenRecorder
 * SetupWizard
 * SoundRecorder
-* Stk (SIM Toolkit)
 * Talkback
 * Terminal
 * ThemeChooser

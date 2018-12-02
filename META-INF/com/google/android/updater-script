@@ -53,7 +53,6 @@ delete_recursive(
     "/system/app/QuickSearchBox",
     "/system/app/RRWallpapers",
     "/system/app/SoundRecorder",
-    "/system/app/Stk",
     "/system/app/Terminal",
     "/system/app/Vending",
     "/system/app/VideoEditor",
