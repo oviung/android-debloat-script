@@ -38,6 +38,7 @@ case "$1" in
    rm -rf /system/app/BasicDreams
    rm -rf /system/app/BookmarkProvider
    rm -rf /system/app/Browser
+   rm -rf /system/app/BuiltInPrintService
    rm -rf /system/app/CellBroadcastReceiver
    rm -rf /system/app/CMFileManager
    rm -rf /system/app/CMHome
