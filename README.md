@@ -1,5 +1,11 @@
 This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u=5772029)'s script found in [this thread](http://forum.xda-developers.com/android/software/gapps-google-apps-minimal-edition-t2943330).
 
+## Note!
+
+After a fresh install of a ROM, first do a system boot before installing this script. This removes apps that are called on first startup (for configuring some system settings), so flashing the script before doing so will result in a bootloop.
+
+Also, to avoid a bootloop caused by the removal of Velvet.apk, go to `Settings > Apps > Default apps > Assist & voice input` and make sure it's set to `none`. Or edit the script to keep Velvet.
+
 ## List of removed apps
 
 * AntHalService (used for activity trackers, heart rate monitors etc.)
@@ -69,6 +75,7 @@ This is an edited version of [jajb](http://forum.xda-developers.com/member.php?u
 * ThemeManagerService
 * ThemesProvider
 * Updater
+* Velvet
 * Vending
 * VideoEditor
 * VisualizationWallpapers
