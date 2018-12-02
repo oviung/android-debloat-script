@@ -71,6 +71,7 @@ case "$1" in
    rm -rf /system/app/PhaseBeam
    rm -rf /system/app/PhotoPhase
    rm -rf /system/app/PhotoTable
+   rm -rf /system/app/PrebuiltExchange3Google
    rm -rf /system/app/PrintRecommendationService
    rm -rf /system/app/PrintSpooler
    rm -rf /system/app/Provision
