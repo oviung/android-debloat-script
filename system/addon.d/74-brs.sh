@@ -76,7 +76,6 @@ case "$1" in
    rm -rf /system/app/QuickSearchBox
    rm -rf /system/app/RRWallpapers
    rm -rf /system/app/SoundRecorder
-   rm -rf /system/app/Stk
    rm -rf /system/app/Terminal
    rm -rf /system/app/Vending
    rm -rf /system/app/VideoEditor
