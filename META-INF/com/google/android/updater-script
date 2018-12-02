@@ -78,7 +78,6 @@ delete_recursive(
     "/system/priv-app/LiveLockScreenService",
     "/system/priv-app/ManagedProvisioning",
     "/system/priv-app/OmniSwitch",
-    "/system/priv-app/OneTimeInitializer",
     "/system/priv-app/OTAUpdates",
     "/system/priv-app/PartnerBookmarksProvider",
     "/system/priv-app/PitchBlack",
