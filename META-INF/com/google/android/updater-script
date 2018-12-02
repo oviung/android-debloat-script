@@ -92,6 +92,7 @@ delete_recursive(
     "/system/priv-app/ThemeManagerService",
     "/system/priv-app/ThemesProvider",
     "/system/priv-app/Updater",
+    "/system/priv-app/Velvet",
     "/system/priv-app/Vending",
     "/system/priv-app/WeatherManagerService",
     "/system/priv-app/WeatherProvider"
