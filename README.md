@@ -75,7 +75,7 @@ Also, to avoid a bootloop caused by the removal of Velvet.apk, go to `Settings >
 * ThemeManagerService
 * ThemesProvider
 * Updater
-* Velvet
+* Velvet (Google App)
 * Vending
 * VideoEditor
 * VisualizationWallpapers
