@@ -100,7 +100,6 @@ case "$1" in
    rm -rf /system/priv-app/LiveLockScreenService
    rm -rf /system/priv-app/ManagedProvisioning
    rm -rf /system/priv-app/OmniSwitch
-   rm -rf /system/priv-app/OneTimeInitializer
    rm -rf /system/priv-app/OTAUpdates
    rm -rf /system/priv-app/PartnerBookmarksProvider
    rm -rf /system/priv-app/PitchBlack
