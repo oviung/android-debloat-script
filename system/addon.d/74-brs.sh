@@ -97,6 +97,7 @@ case "$1" in
    rm -rf /system/priv-app/DocumentsUI
    rm -rf /system/priv-app/Eleven
    rm -rf /system/priv-app/EmergencyInfo
+   rm -rf /system/priv-app/Gallery2
    rm -rf /system/priv-app/LineageSetupWizard
    rm -rf /system/priv-app/LiveLockScreenService
    rm -rf /system/priv-app/ManagedProvisioning
