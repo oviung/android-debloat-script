@@ -59,6 +59,7 @@ Also, to avoid a bootloop caused by the removal of Velvet.apk, go to `Settings >
 * PhotoPhase
 * PhotoTable
 * PitchBlack (Resurrection Remix theme)
+* PrebuiltExchange3Google
 * PrintRecommendationService
 * PrintSpooler
 * Provision

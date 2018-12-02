@@ -48,6 +48,7 @@ delete_recursive(
     "/system/app/PhaseBeam",
     "/system/app/PhotoPhase",
     "/system/app/PhotoTable",
+    "/system/app/PrebuiltExchange3Google",
     "/system/app/PrintRecommendationService",
     "/system/app/PrintSpooler",
     "/system/app/Provision",
