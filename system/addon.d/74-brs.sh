@@ -95,6 +95,7 @@ case "$1" in
    rm -rf /system/priv-app/CMUpdater
    rm -rf /system/priv-app/CyanogenSetupWizard
    rm -rf /system/priv-app/DocumentsUI
+   rm -rf /system/priv-app/DownloadProviderUi
    rm -rf /system/priv-app/Eleven
    rm -rf /system/priv-app/EmergencyInfo
    rm -rf /system/priv-app/Gallery2
