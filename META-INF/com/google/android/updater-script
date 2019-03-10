@@ -104,7 +104,7 @@ delete_recursive(
     "/system/media/audio/ringtones",
     "/sdcard/Alarms",
     "/sdcard/Notifications",
-    "/sdcard/Podcasts",
+    "/sdcard/Podcasts"
 );
 
 show_progress(1, 15);
