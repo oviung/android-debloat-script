@@ -103,7 +103,6 @@ delete_recursive(
 delete_recursive(
     "/system/media/audio/notifications",
     "/system/media/audio/ringtones",
-    "/system/media/audio/ui",
     "/sdcard/Alarms",
     "/sdcard/Notifications",
     "/sdcard/Podcasts",

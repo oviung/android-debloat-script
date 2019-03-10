@@ -124,7 +124,6 @@ case "$1" in
 
    rm -rf /system/media/audio/notifications
    rm -rf /system/media/audio/ringtones
-   rm -rf /system/media/audio/ui
    rm -rf /sdcard/Alarms
    rm -rf /sdcard/Notifications
    rm -rf /sdcard/Podcasts
