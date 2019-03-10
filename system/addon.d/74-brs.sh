@@ -63,6 +63,7 @@ case "$1" in
    rm -rf /system/app/LiveWallpapersPicker
    rm -rf /system/app/LockClock
    rm -rf /system/app/MagicSmokeWallpapers
+   rm -rf /system/app/MarkupGoogle
    rm -rf /system/app/ModioFX
    rm -rf /system/app/Music
    rm -rf /system/app/NoiseField

@@ -40,6 +40,7 @@ delete_recursive(
     "/system/app/LiveWallpapersPicker",
     "/system/app/LockClock",
     "/system/app/MagicSmokeWallpapers",
+    "/system/app/MarkupGoogle",
     "/system/app/ModioFX",
     "/system/app/Music",
     "/system/app/NoiseField",
