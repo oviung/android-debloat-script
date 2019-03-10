@@ -8,6 +8,7 @@ Also, to avoid a bootloop caused by the removal of Velvet.apk, go to `Settings >
 
 ## List of removed apps
 
+* AndroidMigratePrebuilt
 * AntHalService (used for activity trackers, heart rate monitors etc.)
 * Apollo
 * AudioFX

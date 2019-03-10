@@ -88,6 +88,7 @@ case "$1" in
    rm -rf /system/app/WundergroundWeatherProvider
    rm -rf /system/app/YahooWeatherProvider
 
+   rm -rf /system/priv-app/AndroidMigratePrebuilt
    rm -rf /system/priv-app/AudioFX
    rm -rf /system/priv-app/CellBroadcastReceiver
    rm -rf /system/priv-app/CMAccount

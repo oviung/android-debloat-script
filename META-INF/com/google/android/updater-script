@@ -66,6 +66,7 @@ delete_recursive(
     "/system/app/YahooWeatherProvider"
 );
 delete_recursive(
+    "/system/priv-app/AndroidMigratePrebuilt",
     "/system/priv-app/AudioFX",
     "/system/priv-app/CellBroadcastReceiver",
     "/system/priv-app/CMAccount",
