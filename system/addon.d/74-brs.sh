@@ -126,6 +126,5 @@ case "$1" in
    rm -rf /sdcard/Alarms
    rm -rf /sdcard/Notifications
    rm -rf /sdcard/Podcasts
-   rm -rf /sdcard/Ringtones
   ;;
 esac
