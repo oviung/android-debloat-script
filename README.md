@@ -94,7 +94,6 @@ Also, to avoid a bootloop caused by the removal of Velvet.apk, go to `Settings >
 ```
 /system/media/audio/notifications
 /system/media/audio/ringtones
-/system/media/audio/ui
 
 /sdcard/Alarms
 /sdcard/Notifications
