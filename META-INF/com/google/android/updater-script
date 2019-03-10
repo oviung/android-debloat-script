@@ -105,7 +105,6 @@ delete_recursive(
     "/sdcard/Alarms",
     "/sdcard/Notifications",
     "/sdcard/Podcasts",
-    "/sdcard/Ringtones"
 );
 
 show_progress(1, 15);
