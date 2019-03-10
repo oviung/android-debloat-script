@@ -49,6 +49,7 @@ Also, to avoid a bootloop caused by the removal of Velvet.apk, go to `Settings >
 * LockClock (cLock)
 * MagicSmokeWallpapers
 * ManagedProvisioning (Device administration for corporate environments)
+* MarkupGoogle (Screenshot Editor)
 * ModioFX (audio effects - use Viper4Android/[ARISE](https://forum.xda-developers.com/android/software/r-s-e-sound-systems-auditory-research-t3379709) if rooted)
 * Music (player)
 * NoiseField
