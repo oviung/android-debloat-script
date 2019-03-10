@@ -122,7 +122,6 @@ case "$1" in
    rm -rf /system/priv-app/WeatherManagerService
    rm -rf /system/priv-app/WeatherProvider
 
-   rm -rf /system/media/audio/notifications
    rm -rf /system/media/audio/ringtones
    rm -rf /sdcard/Alarms
    rm -rf /sdcard/Notifications

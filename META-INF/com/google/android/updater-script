@@ -101,7 +101,6 @@ delete_recursive(
     "/system/priv-app/WeatherProvider"
 );
 delete_recursive(
-    "/system/media/audio/notifications",
     "/system/media/audio/ringtones",
     "/sdcard/Alarms",
     "/sdcard/Notifications",
