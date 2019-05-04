@@ -65,7 +65,6 @@ Also, to avoid a bootloop caused by the removal of Velvet.apk, go to `Settings >
 * PrintRecommendationService
 * PrintSpooler
 * Provision
-* qcrilmsgtunnel
 * QuickSearchBox
 * Recorder
 * RRWallpapers

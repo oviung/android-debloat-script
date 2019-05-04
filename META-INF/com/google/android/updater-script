@@ -87,7 +87,6 @@ delete_recursive(
     "/system/priv-app/PartnerBookmarksProvider",
     "/system/priv-app/PitchBlack",
     "/system/priv-app/Provision",
-    "/system/priv-app/qcrilmsgtunnel",
     "/system/priv-app/QuickSearchBox",
     "/system/priv-app/Recorder",
     "/system/priv-app/Screencast",
