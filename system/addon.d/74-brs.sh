@@ -39,7 +39,6 @@ case "$1" in
    rm -rf /system/app/BookmarkProvider
    rm -rf /system/app/Browser
    rm -rf /system/app/BuiltInPrintService
-   rm -rf /system/app/CellBroadcastReceiver
    rm -rf /system/app/CMFileManager
    rm -rf /system/app/CMHome
    rm -rf /system/app/CMWallpapers
@@ -91,7 +90,6 @@ case "$1" in
 
    rm -rf /system/priv-app/AndroidMigratePrebuilt
    rm -rf /system/priv-app/AudioFX
-   rm -rf /system/priv-app/CellBroadcastReceiver
    rm -rf /system/priv-app/CMAccount
    rm -rf /system/priv-app/CMAudioService
    rm -rf /system/priv-app/CMUpdater
