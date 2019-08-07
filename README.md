@@ -16,7 +16,6 @@ Also, to avoid a bootloop caused by the removal of Velvet.apk, go to `Settings >
 * BookmarkProvider (used to import/export bookmarks)
 * Browser (AOSP)
 * BuiltInPrintService
-* CellBroadcastReceiver
 * CMAccout
 * CMAudioService
 * CMFileManager

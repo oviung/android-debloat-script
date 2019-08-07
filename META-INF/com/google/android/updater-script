@@ -16,7 +16,6 @@ delete_recursive(
     "/system/app/BookmarkProvider",
     "/system/app/Browser",
     "/system/app/BuiltInPrintService",
-    "/system/app/CellBroadcastReceiver",
     "/system/app/CMFileManager",
     "/system/app/CMHome",
     "/system/app/CMWallpapers",
@@ -69,7 +68,6 @@ delete_recursive(
 delete_recursive(
     "/system/priv-app/AndroidMigratePrebuilt",
     "/system/priv-app/AudioFX",
-    "/system/priv-app/CellBroadcastReceiver",
     "/system/priv-app/CMAccount",
     "/system/priv-app/CMAudioService",
     "/system/priv-app/CMUpdater",
